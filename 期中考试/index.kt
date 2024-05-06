@@ -1,4 +1,4 @@
-点点.:
+
 package com.example.middleexam
 
 import android.os.Bundle
